@@ -36,7 +36,9 @@ npm run dev
 
 3. Rodar o Front
 - Entrar na raiz da pasta
+```bash
 npm install
 npm run dev
+```
 
 
