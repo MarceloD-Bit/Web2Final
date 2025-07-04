@@ -21,14 +21,18 @@ Este é um projeto desenvolvido para a disciplina de Web II. A plataforma permit
 ##  Instalação
 
 1. Clone o repositório:
-   ```bash
+```bash
    git clone https://github.com/MarceloD-Bit/trabalho-web2.git
    cd trabalho-web2
+```
 
 2. Rodar o Back-End
 - Entrar na raiz da pasta > cd back
+
+```bash
 npm install
 npm run dev
+```
 
 3. Rodar o Front
 - Entrar na raiz da pasta
